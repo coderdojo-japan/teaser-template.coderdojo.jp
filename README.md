@@ -1,3 +1,7 @@
 # DojoCon Japan Template for Teaser Site
 
-![Screenshot](https://i.gyazo.com/2c9b9525a8c62564776f6852b93b371f.png)
+![Screenshot](https://github.com/coderdojo-japan/dojocon-template.coderdojo.jp/blob/main/img/screenshot.webp?raw=true)
+
+-----
+
+Copyright ©  [DojoCon Japan](https://dojocon.coderdojo.jp/) & [CoderDojo Japan](https://github.com/coderdojo-japan)
