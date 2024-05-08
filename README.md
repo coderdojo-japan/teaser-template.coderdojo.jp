@@ -72,6 +72,7 @@ $ php -S localhost:8000
 
 <br>
 
+<div id='license'></div>
 
 ## :handshake: Credits & Works
 
