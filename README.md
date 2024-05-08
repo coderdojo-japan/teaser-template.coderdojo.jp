@@ -4,38 +4,64 @@
 
 <br>
 
-## :gem: ローカル環境で確認する方法
+## :wrench: Ruby / Python / Node.js / PHP で動かす方法
 
-エラーなどで困ったら [Rails Girls インストール・レシピ](https://railsgirls.jp/install)を見るのがオススメです。  
-Ruby がインストールできれば十分で、 **Rails のインストールは不要** です。
+### Ruby で動かす方法
 
 ```shell
-# macOS の場合: Homebrew ( https://brew.sh/index_ja ) 経由がオススメ
-$ brew install rbenv ruby-build
-
-# Linux の場合: https://github.com/rbenv/rbenv#readme に沿って rbenv をインストール
-$ sudo apt install rbenv   # Debian, Ubuntu 系のディストリビューションの場合
-
-# Windows の場合: 以下の Rails Girls インストール・レシピに沿ってインストール
-# https://railsgirls.jp/install
-
-# `.ruby-version` ファイルにあるバージョン番号を確認し、バージョン番号 x.y.z をメモする
-# https://github.com/coderdojo-japan/dojocon.coderdojo.jp/blob/main/.ruby-version
-
-# 上記でメモした Ruby のバージョン番号をインストールする
-$ rbenv install x.y.z
-
-# 上記のバージョンの Ruby がインストールされたことを確認する
+# Ruby がインストールされていることを確認する (無ければインストールする)
 $ ruby --version
 
-# 必要なライブラリをインストールする
-$ bundle install
-
 # ローカルサーバーを立ち上げる
-$ bundle exec jekyll server
+$ ruby -run -e httpd .
 ```
 
-無事にローカルサーバーが立ち上がったら、[http://localhost:4000/](http://localhost:4000/) にアクセスしてWebサイトを修正・確認します。
+無事に立ち上がったら [`index.html`](https://github.com/coderdojo-japan/dojocon-template.coderdojo.jp/blob/main/index.html) を修正し、[http://localhost:8080/](http://localhost:8080/) にアクセスして修正内容を確認します。
+
+<br>
+
+
+### Python で動かす方法
+
+```shell
+# Python がインストールされていることを確認する (無ければインストールする)
+$ python --version
+
+# ローカルサーバーを立ち上げる
+$ python -m SimpleHTTPServer
+```
+
+無事に立ち上がったら [`index.html`](https://github.com/coderdojo-japan/dojocon-template.coderdojo.jp/blob/main/index.html) を修正し、[http://localhost:8000/](http://localhost:8000/) にアクセスして修正内容を確認します。
+
+<br>
+
+
+### Node.js で動かす方法
+
+```shell
+# Node.js の npx がインストールされていることを確認する (無ければインストールする)
+$ npx --version
+
+# ローカルサーバーを立ち上げる
+$ npx http-server
+```
+
+無事に立ち上がったら [`index.html`](https://github.com/coderdojo-japan/dojocon-template.coderdojo.jp/blob/main/index.html) を修正し、[http://localhost:8080/](http://localhost:8080/) にアクセスして修正内容を確認します。
+
+<br>
+
+
+### PHP で動かす方法
+
+```shell
+# PHP がインストールされていることを確認する (無ければインストールする)
+$ php --version
+
+# ローカルサーバーを立ち上げる
+$ php -S localhost:8000
+```
+
+無事に立ち上がったら [`index.html`](https://github.com/coderdojo-japan/dojocon-template.coderdojo.jp/blob/main/index.html) を修正し、[http://localhost:8000/](http://localhost:8000/) にアクセスして修正内容を確認します。
 
 <br>
 
