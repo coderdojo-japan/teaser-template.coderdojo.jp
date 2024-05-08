@@ -13,7 +13,7 @@
 $ ruby --version
 
 # ローカルサーバーを立ち上げる
-$ ruby -run -e httpd .
+$ ruby -run -e httpd
 ```
 
 無事に立ち上がったら [`index.html`](https://github.com/coderdojo-japan/dojocon-template.coderdojo.jp/blob/main/index.html) を修正し、[http://localhost:8080/](http://localhost:8080/) にアクセスして修正内容を確認します。
