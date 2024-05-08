@@ -4,6 +4,8 @@
 
 <br>
 
+<div id='setup'></div>
+
 ## :wrench: Ruby / Python / Node.js / PHP で動かす方法
 
 ### 共通
