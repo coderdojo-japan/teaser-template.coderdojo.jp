@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2024 CoderDojo Japan
+Copyright (c) 2024  [DojoCon Japan](https://dojocon.coderdojo.jp/) & [CoderDojo Japan](https://github.com/coderdojo-japan)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
