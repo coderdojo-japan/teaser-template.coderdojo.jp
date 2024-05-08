@@ -69,6 +69,7 @@ $ php -S localhost:8000
 ## :octocat: 関連リポジトリ
 
 - [GitHub - DojoCon Japan リポジトリ一覧](https://github.com/search?q=org%3Acoderdojo-japan%20dojocon&type=repositories)
+- [GitHub - CoderDojo Japan organization](https://github.com/coderdojo-japan) (approved by [GitHub for Nonprofit](https://news.coderdojo.jp/2019/08/29/github-for-nonprofit/)
 
 <br>
 
