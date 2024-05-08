@@ -1,4 +1,4 @@
-# DojoCon Japan Template for Teaser Site
+# Teaser Site Template for CoderDojo Conferences like [DojoCon](https://dojocon.coderdojo.jp/) / [DecaDojo](https://decadojo.coderdojo.jp/)
 
 [![Screenshot](https://github.com/coderdojo-japan/dojocon-template.coderdojo.jp/blob/main/img/screenshot.gif?raw=true)](https://dojocon-template.coderdojo.jp/)
 
