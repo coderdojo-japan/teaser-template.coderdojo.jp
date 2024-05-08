@@ -1,4 +1,4 @@
-# Teaser Site Template for CoderDojo Conferences like [DojoCon](https://dojocon.coderdojo.jp/) / [DecaDojo](https://decadojo.coderdojo.jp/)
+# :yin_yang: Teaser Site Template for CoderDojo Conferences like [DojoCon](https://dojocon.coderdojo.jp/) / [DecaDojo](https://decadojo.coderdojo.jp/)
 
 [![Screenshot](https://github.com/coderdojo-japan/dojocon-template.coderdojo.jp/blob/main/img/screenshot.gif?raw=true)](https://dojocon-template.coderdojo.jp/)
 
@@ -71,6 +71,15 @@ $ php -S localhost:8000
 - [GitHub - DojoCon Japan リポジトリ一覧](https://github.com/search?q=org%3Acoderdojo-japan%20dojocon&type=repositories)
 
 <br>
+
+
+## :white_check_mark: Credits & Works
+
+- :yin_yang: The CoderDojo logo in header - See the [CoderDojo Charter](https://coderdojo.jp/charter).
+- :camera_with_flash: The CoderDojo object in footer is crafted by [DojoCon Japan 2016](https://dojocon2016.coderdojo.jp/) team and photo by [@yasulab](https://github.com/yasulab).
+- :art: This template is based on the [DojoCon Japan 2023](https://dojocon2023.coderdojo.jp/)'s teaser site, designed by [@kwaka1208](https://github.com/kwaka1208).
+
+Other than the logo and photo above, the source codes, such as HTML and CSS, are published under [The MIT License](https://github.com/coderdojo-japan/teaser-template.coderdojo.jp/blob/main/LICENSE). Feel free to refer, copy, or share them.
 
 -----
 
