@@ -1,12 +1,3 @@
-url:         https://dojocon-template.coderdojo.jp
-title:       DojoCon Japan - CoderDojo Conference
-title_short: DojoCon Japan
-title_long:  DojoCon Japan - 年１回の CoderDojo カンファレンス
-description: DojoCon Japan とは、日本の CoderDojo コミュニティメンバーが全国から集まる年に１度のカンファレンスです。
-
-plugins:
-  - jekyll-sitemap # This generates /sitemap.xml automatically for crawlers.
-
 exclude:
   - .sass-cache/
   - .jekyll-cache/
