@@ -1,6 +1,0 @@
-exclude:
-  - .sass-cache/
-  - .jekyll-cache/
-  - Gemfile
-  - Gemfile.lock
-  - Rakefile
