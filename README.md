@@ -73,7 +73,7 @@ $ php -S localhost:8000
 <br>
 
 
-## :white_check_mark: Credits & Works
+## :handshake: Credits & Works
 
 - :yin_yang: The CoderDojo logo in header - See the [CoderDojo Charter](https://coderdojo.jp/charter).
 - :camera_flash: The CoderDojo object in footer is crafted by [DojoCon Japan 2016](https://dojocon2016.coderdojo.jp/) team and photo by [@yasulab](https://github.com/yasulab).
