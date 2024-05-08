@@ -6,6 +6,10 @@
 
 ## :wrench: Ruby / Python / Node.js / PHP で動かす方法
 
+### 共通
+
+下記の手順でサーバーが無事立ち上がったら [`index.html`](https://github.com/coderdojo-japan/dojocon-template.coderdojo.jp/blob/main/index.html) を修正し、[http://localhost:8080/](http://localhost:8080/) にアクセスして修正内容を確認します。
+
 ### Ruby で動かす方法
 
 ```shell
@@ -15,8 +19,6 @@ $ ruby --version
 # ローカルサーバーを立ち上げる
 $ ruby -run -e httpd
 ```
-
-無事に立ち上がったら [`index.html`](https://github.com/coderdojo-japan/dojocon-template.coderdojo.jp/blob/main/index.html) を修正し、[http://localhost:8080/](http://localhost:8080/) にアクセスして修正内容を確認します。
 
 <br>
 
@@ -28,10 +30,8 @@ $ ruby -run -e httpd
 $ python --version
 
 # ローカルサーバーを立ち上げる
-$ python -m SimpleHTTPServer
+$ python -m SimpleHTTPServer 8080
 ```
-
-無事に立ち上がったら [`index.html`](https://github.com/coderdojo-japan/dojocon-template.coderdojo.jp/blob/main/index.html) を修正し、[http://localhost:8000/](http://localhost:8000/) にアクセスして修正内容を確認します。
 
 <br>
 
@@ -46,8 +46,6 @@ $ npx --version
 $ npx http-server
 ```
 
-無事に立ち上がったら [`index.html`](https://github.com/coderdojo-japan/dojocon-template.coderdojo.jp/blob/main/index.html) を修正し、[http://localhost:8080/](http://localhost:8080/) にアクセスして修正内容を確認します。
-
 <br>
 
 
@@ -58,10 +56,8 @@ $ npx http-server
 $ php --version
 
 # ローカルサーバーを立ち上げる
-$ php -S localhost:8000
+$ php -S localhost:8080
 ```
-
-無事に立ち上がったら [`index.html`](https://github.com/coderdojo-japan/dojocon-template.coderdojo.jp/blob/main/index.html) を修正し、[http://localhost:8000/](http://localhost:8000/) にアクセスして修正内容を確認します。
 
 <br>
 
