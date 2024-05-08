@@ -1,6 +1,6 @@
 # DojoCon Japan Template for Teaser Site
 
-[![Screenshot](https://github.com/coderdojo-japan/dojocon-template.coderdojo.jp/blob/main/img/screenshot.webp?raw=true)](https://dojocon-template.coderdojo.jp/)
+[![Screenshot](https://github.com/coderdojo-japan/dojocon-template.coderdojo.jp/blob/main/img/screenshot.gif?raw=true)](https://dojocon-template.coderdojo.jp/)
 
 <br>
 
