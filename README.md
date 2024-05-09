@@ -16,7 +16,7 @@
 1. 各項目に情報を入力し、本テンプレートから新しいリポジトリを作成する
 1. [README の動かす方法](#setup)にしたがって、適宜Webサイトを修正・確認する
 1. 準備ができたら [GitHub Pages](https://www.google.com/search?q=GitHub+Pages) から公開する
-
+   - 公開例: [https://teaser-template.coderdojo.jp/](https://teaser-template.coderdojo.jp/)
 
 <div id='setup'></div>
 
