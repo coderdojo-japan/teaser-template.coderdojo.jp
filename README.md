@@ -1,6 +1,6 @@
 # :yin_yang: Teaser Site Template for CoderDojo Conferences like [DojoCon](https://dojocon.coderdojo.jp/) / [DecaDojo](https://decadojo.coderdojo.jp/)
 
-[![Screenshot](https://github.com/coderdojo-japan/dojocon-template.coderdojo.jp/blob/main/img/screenshot.gif?raw=true)](https://dojocon-template.coderdojo.jp/)
+[![Screenshot](https://github.com/coderdojo-japan/teaser-template.coderdojo.jp/blob/main/img/screenshot.gif?raw=true)](https://teaser-template.coderdojo.jp/)
 
 <br>
 
@@ -26,7 +26,7 @@
 
 ### 共通
 
-下記の手順でサーバーが無事立ち上がったら [`index.html`](https://github.com/coderdojo-japan/dojocon-template.coderdojo.jp/blob/main/index.html) を修正し、[http://localhost:8080/](http://localhost:8080/) にアクセスして修正内容を確認します。
+下記の手順でサーバーが無事立ち上がったら [`index.html`](https://github.com/coderdojo-japan/teaser-template.coderdojo.jp/blob/main/index.html) を修正し、[http://localhost:8080/](http://localhost:8080/) にアクセスして修正内容を確認します。
 
 ### Ruby で動かす方法
 
