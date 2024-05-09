@@ -4,7 +4,23 @@
 
 <br>
 
+<div id='howto'></div>
+
+## :beginner: 本テンプレートの使い方
+
+[承認された CoderDojo](https://coderdojo.jp/#dojos) であれば、以下の手順で本テンプレートをお使いいただけます。
+
+1. [GitHub](https://github.co.jp/) のアカウントを作る
+1. 本ページの画面右上にある `Use this template` -> `Create a new repository` を押す
+   ![Screenshot](https://i.gyazo.com/559ee68cbe9e7e94b41e68237b36d3cd.png)
+1. 各項目に情報を入力し、本テンプレートから新しいリポジトリを作成する
+1. [README の動かす方法](#setup)にしたがって、適宜Webサイトを修正・確認する
+1. 準備ができたら [GitHub Pages](https://www.google.com/search?q=GitHub+Pages) から公開する
+
+
 <div id='setup'></div>
+
+<br>
 
 ## :wrench: Ruby / Python / Node.js / PHP で動かす方法
 
