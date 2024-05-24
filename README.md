@@ -1,6 +1,6 @@
 # :yin_yang: Teaser Site Template for CoderDojo Conferences like [DojoCon](https://dojocon.coderdojo.jp/) / [DecaDojo](https://decadojo.coderdojo.jp/)
 
-[![Screenshot](https://github.com/coderdojo-japan/teaser-template.coderdojo.jp/blob/main/img/screenshot.gif?raw=true)](https://teaser-template.coderdojo.jp/)
+[![Screenshot of Teaser Site](https://github.com/coderdojo-japan/teaser-template.coderdojo.jp/blob/main/img/screenshot.gif?raw=true)](https://teaser-template.coderdojo.jp/)
 
 <br>
 
@@ -17,6 +17,8 @@
 1. [README の動かす方法](#setup)にしたがって、適宜Webサイトを修正・確認する
 1. 準備ができたら [GitHub Pages](https://www.google.com/search?q=GitHub+Pages) から公開する
    - 公開例: [https://teaser-template.coderdojo.jp/](https://teaser-template.coderdojo.jp/)
+
+![Screenshot of Creating with Template](https://github.com/coderdojo-japan/teaser-template.coderdojo.jp/blob/main/img/create-with-template.png?raw=true)
 
 <div id='setup'></div>
 
