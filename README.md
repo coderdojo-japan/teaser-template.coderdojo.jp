@@ -18,6 +18,8 @@
 1. 準備ができたら [GitHub Pages](https://www.google.com/search?q=GitHub+Pages) から公開する
    - 公開例: [https://teaser-template.coderdojo.jp/](https://teaser-template.coderdojo.jp/)
 
+<br>
+
 ![Screenshot of Creating with Template](https://github.com/coderdojo-japan/teaser-template.coderdojo.jp/blob/main/img/create-with-template.png?raw=true)
 
 <div id='setup'></div>
