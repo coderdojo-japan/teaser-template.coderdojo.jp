@@ -18,8 +18,9 @@
 1. [README の動かす方法](#setup)にしたがって、適宜Webサイトを修正・確認する
 1. 準備ができたら [GitHub Pages](https://www.google.com/search?q=GitHub+Pages) から公開する
    - `Settings` -> `Pages` に行き、`Branch` 欄にある `None` を `main` に変更し、`Save` を押す
-   - `Custom domain` という欄が表示されレポー、ドメイン名 (例: `dojocon2024.coderdojo.jp`) を入力し、`Save` を押す
+   - `Custom domain` 欄が表示されたらドメイン名 (例: `dojocon2024.coderdojo.jp`) を入力し、`Save` を押す
    - :warning: ドメインの適用には DNS 設定が必要です。ココまで設定できたら @yasulab までご連絡ください! :email: :dash:
+   ![Screenshot: GitHub Pages Settings](https://github.com/coderdojo-japan/teaser-template.coderdojo.jp/blob/main/img/pages-settings.png?raw=true)
 1. DNS 設定が完了したら、ティザーサイトが公開できているはずです!
    - 公開例: [https://teaser-template.coderdojo.jp/](https://teaser-template.coderdojo.jp/)
 
