@@ -22,7 +22,10 @@
    - :warning: ドメインの適用には DNS 設定が必要です。ココまで設定できたら @yasulab までご連絡ください! :email: :dash:
    ![Screenshot: GitHub Pages Settings](https://github.com/coderdojo-japan/teaser-template.coderdojo.jp/blob/main/img/pages-settings.png?raw=true)
 1. DNS 設定が完了したら、ティザーサイトが公開できているはずです!
-   - 公開例: [https://teaser-template.coderdojo.jp/](https://teaser-template.coderdojo.jp/)
+   - 公開例 (1/2): [https://dojocon2024-teaser.coderdojo.jp/](https://dojocon2024-teaser.coderdojo.jp/)
+   - 公開例 (2/2): [https://teaser-template.coderdojo.jp/](https://teaser-template.coderdojo.jp/)  
+     [![Screenshot of Teaser Site](https://github.com/coderdojo-japan/teaser-template.coderdojo.jp/blob/main/img/screenshot.gif?raw=true)](https://teaser-template.coderdojo.jp/)
+
 
 <div id='setup'></div>
 
@@ -32,7 +35,7 @@
 
 ### 共通
 
-下記の手順でサーバーが無事立ち上がったら [`index.html`](https://github.com/coderdojo-japan/teaser-template.coderdojo.jp/blob/main/index.html) を修正し、[http://localhost:8080/](http://localhost:8080/) にアクセスして修正内容を確認します。
+下記の手順でティザーサイトをローカル環境で確認できます。無事に立ち上げられると、ブラウザで [http://localhost:8080/](http://localhost:8080/) にアクセスした際、上記のようなティザーサイトが表示されます。
 
 ### Ruby で動かす方法
 
@@ -72,7 +75,6 @@ $ npx http-server
 
 <br>
 
-
 ### PHP で動かす方法
 
 ```shell
@@ -83,11 +85,30 @@ $ php --version
 $ php -S localhost:8080
 ```
 
+
+<div id='customize'></div>
+
 <br>
 
+## :memo: 動かせたら、開催情報などを入力する
+
+前項の手順で [http://localhost:8080/](http://localhost:8080/) からティザーサイトを表示できたら、以下のファイルにある各項目を修正して完成です。
+
+- `index.html`: 開催場所、開催日、テーマ、OGP 画像のパスなど (必須)
+- `site.webmanifest`: [スマホでホーム画面に追加](https://www.google.com/search?q=スマホ+ホーム画面+追加)した際に表示されるサイト名 (任意)
+- `sitemap.xml`: ドメイン名 (必須)
+
+入力例: [:octocat: coderdojo-japan/dojocon2025-teaser.coderdojo.jp - fill date / location #1](https://github.com/coderdojo-japan/dojocon2025-teaser.coderdojo.jp/pull/1/files)
+
+
+
+<div id='references'></div>
+
+<br>
 
 ## :octocat: 関連リポジトリ
 
+- [GitHub - ティザーサイト用テンプレート](https://github.com/coderdojo-japan/teaser-template.coderdojo.jp)
 - [GitHub - DojoCon Japan リポジトリ一覧](https://github.com/search?q=org%3Acoderdojo-japan%20dojocon&type=repositories)
 - [GitHub - CoderDojo Japan organization](https://github.com/coderdojo-japan) (approved by [GitHub for Nonprofit](https://news.coderdojo.jp/2019/08/29/github-for-nonprofit/))
 
