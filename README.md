@@ -6,7 +6,7 @@
 
 <div id='howto'></div>
 
-## :beginner: 本テンプレートの使い方
+## [:beginner:](#howto) 本テンプレートの使い方
 
 [承認された CoderDojo](https://coderdojo.jp/#dojos) であれば、以下の手順で本テンプレートをお使いいただけます。
 
@@ -31,7 +31,7 @@
 
 <br>
 
-## :wrench: Ruby / Python / Node.js / PHP で動かす方法
+## [:wrench:](#setup) Ruby / Python / Node.js / PHP で動かす方法
 
 ### 共通
 
@@ -90,7 +90,7 @@ $ php -S localhost:8080
 
 <br>
 
-## :memo: 動かせたら、開催情報などを入力する
+## [:memo:](#customize) 動かせたら、開催情報などを入力する
 
 前項の手順で [http://localhost:8080/](http://localhost:8080/) からティザーサイトを表示できたら、以下のファイルにある各項目を修正して完成です。
 
@@ -106,7 +106,7 @@ $ php -S localhost:8080
 
 <br>
 
-## :octocat: 関連リポジトリ
+## [:octocat:](#references) 関連リポジトリ
 
 - [GitHub - ティザーサイト用テンプレート](https://github.com/coderdojo-japan/teaser-template.coderdojo.jp)
 - [GitHub - DojoCon Japan リポジトリ一覧](https://github.com/search?q=org%3Acoderdojo-japan%20dojocon&type=repositories)
@@ -116,7 +116,7 @@ $ php -S localhost:8080
 
 <div id='license'></div>
 
-## :handshake: Credits & Works
+## [:handshake:](#license) Credits & Works
 
 - :yin_yang: The CoderDojo logo in header - See the [CoderDojo Charter](https://coderdojo.jp/charter).
 - :camera_flash: The CoderDojo object in footer is crafted by [DojoCon Japan 2016](https://dojocon2016.coderdojo.jp/) team and photo by [@yasulab](https://github.com/yasulab).
