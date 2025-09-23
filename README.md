@@ -12,6 +12,7 @@
 
 ### 1. [GitHub](https://github.co.jp/) のアカウントを作る
 [![GitHub Singup](https://github.com/coderdojo-japan/teaser-template.coderdojo.jp/blob/main/img/readme-github.png?raw=true)](https://github.co.jp/)
+[&raquo; https://github.co.jp/](https://github.co.jp/)
 
 <br>
 
