@@ -38,7 +38,7 @@
 ### 5. 準備ができたら [GitHub Pages](https://www.google.com/search?q=GitHub+Pages) から公開する
 - `Settings` -> `Pages` に行き、`Branch` 欄にある `None` を `main` に変更し、`Save` を押す
 - `Custom domain` 欄が表示されたらドメイン名 (例: `dojocon2024.coderdojo.jp`) を入力し、`Save` を押す
-- :warning: ドメインの適用には DNS 設定が必要です。ココまで設定できたら @yasulab までご連絡ください! :email: :dash:
+- :warning: ドメインの適用には DNS 設定が必要です。ココまで設定できたら [@yasulab](https://github.com/yasulab) までご連絡ください! :email: :dash:
    ![GitHub Pages Settings](https://github.com/coderdojo-japan/teaser-template.coderdojo.jp/blob/main/img/readme-domain.png?raw=true)
 
 <br>
